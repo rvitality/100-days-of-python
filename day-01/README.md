@@ -10,6 +10,6 @@
 
 ## Band Name Generator
 
-![day01](band_name_generator)
+![band-name-generator](band_name_generator.gif)
 
 https://replit.com/@rvitality/band-name-generator
